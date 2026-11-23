@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:7F1D1D,100:DC2626&height=215&section=header&text=GVRX404&fontSize=78&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn&desc=REVERSE%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20AUTOMOBILE%20ENGINEER&descAlignY=61&descSize=15" alt="GVRX404 header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:7F1D1D,100:DC2626&height=215&section=header&text=GVRX404&fontSize=78&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn&desc=REVERSE%20ENGINEER%20%7C%20BACKEND%20DEVELOPER%20%7C%20EV%20%26%20ELECTRICAL%20TECH&descAlignY=61&descSize=15" alt="GVRX404 header" />
 
 <a href="https://github.com/gvrx404"><img src="https://img.shields.io/badge/GITHUB-GVRX404-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://leetcode.com/u/gvrx404/"><img src="https://img.shields.io/badge/LEETCODE-GVRX404-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" /></a>
