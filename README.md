@@ -7,6 +7,7 @@
 *I build, break down, and understand systems — from software internals to mechanical engineering.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-gvrx404-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gvrx404)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gvrx404-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/gvrx404/)
 ![Focus](https://img.shields.io/badge/Focus-Systems_%26_Tooling-2b2b2b?style=for-the-badge)
 
 </div>
