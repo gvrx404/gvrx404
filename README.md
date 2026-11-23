@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0F19,50:7F1D1D,100:DC2626&amp;height=215&amp;section=header&amp;text=GVRX404&amp;fontSize=78&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;animation=fadeIn&amp;desc=REVERSE%20ENGINEER%20%7C%20SOFTWARE%20%26%20BACKEND%20DEV%20%7C%20ELECTRICAL%20%26%20EV%20ENGINEERING&amp;descAlignY=62&amp;descSize=13" alt="GVRX404 header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0F19,50:7F1D1D,100:DC2626&amp;height=215&amp;section=header&amp;text=GVRX404&amp;fontSize=78&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;animation=fadeIn&amp;desc=REVERSE%20ENGINEER%20%7C%20SOFTWARE%20AND%20BACKEND%20DEV%20%7C%20ELECTRICAL%20AND%20EV%20ENGINEERING&amp;descAlignY=62&amp;descSize=13" alt="GVRX404 header" />
 
 <a href="https://github.com/gvrx404"><img src="https://img.shields.io/badge/GITHUB-GVRX404-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
 <a href="https://leetcode.com/u/gvrx404/"><img src="https://img.shields.io/badge/LEETCODE-GVRX404-111827?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode profile" /></a>
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=950&amp;color=F87171&amp;center=true&amp;vCenter=true&amp;width=860&amp;height=42&amp;lines=Reverse+Engineering+%26+Software+Internals;Building+APIs%2C+Desktop+Clients+%26+Backend+Systems;Web+Scraping+%7C+Automation+%7C+Developer+Tools;Algorithms+%26+Challenge-Solving+Research;Code+Meets+Automobile+Engineering" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=950&amp;color=F87171&amp;center=true&amp;vCenter=true&amp;width=860&amp;height=42&amp;lines=Reverse+Engineering+and+Software+Internals;Building+APIs%2C+Desktop+Clients+and+Backend+Systems;Web+Scraping+%7C+Automation+%7C+Developer+Tools;Algorithms+and+Challenge-Solving+Research;Code+Meets+Automobile+Engineering" alt="Animated introduction" />
 
 **Reverse Engineer • Software & Backend Developer • Electrical Systems • Automobile Engineering (EV)**
 
@@ -149,4 +149,3 @@ I enjoy understanding software from the inside out — analyzing application beh
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:DC2626,50:7F1D1D,100:0B0F19&amp;height=105&amp;section=footer" alt="Red and black decorative footer" />
 
 </div>
-
