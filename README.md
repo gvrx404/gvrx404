@@ -3,7 +3,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:7F1D1D,100:DC2626&height=215&section=header&text=GVRX404&fontSize=78&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn&desc=REVERSE%20ENGINEER%20%7C%20SOFTWARE%20%26%20BACKEND%20DEVELOPER%20%7C%20ELECTRIC%20EXPERTISE%20%7C%20AUTOMOBILE%20ENGINEER%20(EV)&descAlignY=61&descSize=15" alt="GVRX404 header" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0F19,50:7F1D1D,100:DC2626&amp;height=215&amp;section=header&amp;text=GVRX404&amp;fontSize=78&amp;fontColor=FFFFFF&amp;fontAlignY=39&amp;animation=fadeIn&amp;desc=REVERSE%20ENGINEER%20%7C%20SOFTWARE%20%26%20BACKEND%20DEVELOPER%20%7C%20ELECTRICAL%20SYSTEMS%20%7C%20AUTOMOBILE%20ENGINEER%20%28EV%29&amp;descAlignY=61&amp;descSize=13"
+  alt="GVRX404 Header"
+/>
 
 <a href="https://github.com/gvrx404"><img src="https://img.shields.io/badge/GITHUB-GVRX404-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://leetcode.com/u/gvrx404/"><img src="https://img.shields.io/badge/LEETCODE-GVRX404-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" /></a>
