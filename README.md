@@ -26,7 +26,8 @@ username: gvrx404
 roles:
   - Reverse Engineer
   - Software & Backend Developer
-  - Automobile Engineer
+  - lectrical Systems & Technology Enthusiast
+  - Electric Vehicle (EV) Technology
 focus:
   - Reverse Engineering & Protocol Analysis
   - API Development & Integrations
